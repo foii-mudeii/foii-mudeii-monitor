@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2bfe23fa.chunk.css",
+    "main.js": "./static/js/main.a80c981a.chunk.js",
+    "main.js.map": "./static/js/main.a80c981a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.89931c20.js",
+    "runtime-main.js.map": "./static/js/runtime-main.89931c20.js.map",
+    "static/js/2.5c005882.chunk.js": "./static/js/2.5c005882.chunk.js",
+    "static/js/2.5c005882.chunk.js.map": "./static/js/2.5c005882.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.be26d5b77544db93289f1154d4ed0209.js": "./precache-manifest.be26d5b77544db93289f1154d4ed0209.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.2bfe23fa.chunk.css.map": "./static/css/main.2bfe23fa.chunk.css.map",
+    "static/media/dashboard1.svg": "./static/media/dashboard1.ec49b0de.svg",
+    "static/media/edit.svg": "./static/media/edit.b45640e1.svg",
+    "static/media/gavel.svg": "./static/media/gavel.cbb751d5.svg",
+    "static/media/logout.svg": "./static/media/logout.0047b041.svg",
+    "static/media/money.svg": "./static/media/money.87fd827e.svg",
+    "static/media/mudeii_branco.svg": "./static/media/mudeii_branco.a7ff6d49.svg",
+    "static/media/mudeii_horizontal.svg": "./static/media/mudeii_horizontal.008505ef.svg",
+    "static/media/speed.svg": "./static/media/speed.dde5cd72.svg",
+    "static/media/usuarios.svg": "./static/media/usuarios.8f41a226.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89931c20.js",
+    "static/js/2.5c005882.chunk.js",
+    "static/css/main.2bfe23fa.chunk.css",
+    "static/js/main.a80c981a.chunk.js"
+  ]
+}
